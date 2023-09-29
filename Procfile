@@ -1,1 +1,1 @@
-web: gunicorn goingllm:app --timeout 145
+web: gunicorn asistanforbaskan:app --timeout 145
